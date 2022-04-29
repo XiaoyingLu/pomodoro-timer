@@ -1,0 +1,19 @@
+.inputGroup {
+    width: 220px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+}
+.formInput {
+    background-color: white;
+    font-size:1.2rem;
+    padding:.2em;
+    width: fit-content;
+    text-align: center;
+}
+.formInput:active,
+.formInput:focus,
+.formInput:focus:active {
+    background-color: white;
+}
